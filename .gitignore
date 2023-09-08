@@ -1,0 +1,53 @@
+# Virtual environment
+venv/
+.venv/
+.env/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+.ropeproject/
+
+
+# Logs and output files
+logs/
+output/
+
+
+# Dependency directories
+/dist/
+/build/
+/__pycache__/
+*.egg-info/
+
+# Configuration files
+config.py
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# User-specific files
+.history
+.bash_history
+.viminfo
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+
+# Logs and cache
+/logs/
+/cache/
+
+# Database files
+*.sqlite
+*.db
+
+
